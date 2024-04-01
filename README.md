@@ -5,22 +5,15 @@ Welcome to my first project using HTML, CSS, and JavaScript! Please note that as
 ## Table of Contents
 
 - [Demo](#demo)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Demo
+![192 168 1 12_5501_index html](https://github.com/mataza060503/UEL_Careers_project/assets/119863432/e0a4f985-7a1c-42f5-9409-9bc44a12e7c3)
 
-[Include a link to a live demo or a screenshot/gif of your project]
 
-## Features
-
-- [List out the key features of your project]
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
 
 ## Installation
 
