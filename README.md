@@ -14,7 +14,6 @@ Welcome to my first project using HTML, CSS, and JavaScript! Please note that as
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 ![index html](https://github.com/mataza060503/UEL_Careers_project/assets/119863432/e05d2b2e-e85c-4ef9-8eb1-7d2de87467b0)
@@ -48,8 +47,3 @@ Contributions are welcome! Here's how you can contribute:
 
 Please make sure to update tests as appropriate.
 
-## License
-
-[Choose an appropriate license for your project. For example:]
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
