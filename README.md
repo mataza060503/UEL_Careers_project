@@ -11,8 +11,7 @@ Welcome to my first project using HTML, CSS, and JavaScript! Please note that as
 - [License](#license)
 
 ## Demo
-![192 168 1 12_5501_index html](https://github.com/mataza060503/UEL_Careers_project/assets/119863432/e0a4f985-7a1c-42f5-9409-9bc44a12e7c3)
-
+![index html](https://github.com/mataza060503/UEL_Careers_project/assets/119863432/e05d2b2e-e85c-4ef9-8eb1-7d2de87467b0)
 
 
 ## Installation
