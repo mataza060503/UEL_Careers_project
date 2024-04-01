@@ -1,10 +1,11 @@
-# My Awesome Project
+# UEL Careers Project
 
 Welcome to my first project using HTML, CSS, and JavaScript! Please note that as this is my first project, there might be some mistakes or areas for improvement.
 
 ## Table of Contents
 
 - [Demo](#demo)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -12,6 +13,14 @@ Welcome to my first project using HTML, CSS, and JavaScript! Please note that as
 
 ## Demo
 ![index html](https://github.com/mataza060503/UEL_Careers_project/assets/119863432/e05d2b2e-e85c-4ef9-8eb1-7d2de87467b0)
+
+## Description
+
+This project is a front-end without functionality, serving as an interface converted from Figma designs. It's primarily focused on showcasing my skills in HTML, CSS, and JavaScript for creating responsive and visually appealing web interfaces.
+
+[![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 ## Installation
