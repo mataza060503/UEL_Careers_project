@@ -1,6 +1,10 @@
 # UEL Careers Project
 
 Welcome to my first project using HTML, CSS, and JavaScript! Please note that as this is my first project, there might be some mistakes or areas for improvement.
+[![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Table of Contents
 
@@ -17,11 +21,6 @@ Welcome to my first project using HTML, CSS, and JavaScript! Please note that as
 ## Description
 
 This project is a front-end without functionality, serving as an interface converted from Figma designs. It's primarily focused on showcasing my skills in HTML, CSS, and JavaScript for creating responsive and visually appealing web interfaces.
-
-[![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 
 ## Installation
 
